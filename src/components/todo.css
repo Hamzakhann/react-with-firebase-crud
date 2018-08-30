@@ -1,0 +1,15 @@
+.todo_container{
+  width: 100%;
+}
+.todo{
+  width: 85%;
+  height: 50px;
+  margin : 2% 5% 5% 5%
+}
+
+.layer{
+  background-color: black;
+  width: 85%;
+  height: 5px;
+  margin : 35% 5% 0 5%
+}
